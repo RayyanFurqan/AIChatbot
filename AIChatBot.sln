@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35714.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AIChatBot", "AIChatBot\AIChatBot.vbproj", "{19F2A930-30EC-4689-8A7D-A9EA44AEBE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F2A930-30EC-4689-8A7D-A9EA44AEBE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F2A930-30EC-4689-8A7D-A9EA44AEBE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F2A930-30EC-4689-8A7D-A9EA44AEBE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F2A930-30EC-4689-8A7D-A9EA44AEBE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C012CC1E-B2D9-4203-9DB1-11E2EF074AEE}
+	EndGlobalSection
+EndGlobal
